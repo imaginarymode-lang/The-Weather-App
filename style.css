@@ -16,26 +16,24 @@ body {
 }
 
 .weather-card {
+  width: 90%;
+  max-width: 450px;
+  padding: 24px;
   background-color: rgba(185, 179, 179, 0.9);
   color: #1e293b;
-  padding: 28px 32px;
-  border-radius: 16px;
-  box-shadow: 0 10px 25px rgba(1, 2, 2, 0.9);
-  width: 100%;
-  max-width: 400px;
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-  text-align: center;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
 .search-row {
   display: flex;
-  gap: 20px;
+  flex-wrap: wrap;
+  gap: 10px;
 }
 
 #city-input {
-  flex: 1;
+  flex: 1 1 160px;
+  min-width: 0;
   padding: 10px 14px;
   font-size: 16px;
   border: 2px solid #cbd5e1;
