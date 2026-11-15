@@ -18,3 +18,6 @@
 - I understand how `fetch()`, `response`, and `.json()` methods work together.
 
 ## Special Thanks to TheOdinProject and FreeCodeCamp
+
+-i learned from weather app lesson https://www.theodinproject.com/lessons/node-path-javascript-weather-app
+-i read step from freecodecamp javascript certificate currently at https://www.freecodecamp.org/learn/javascript-v9/workshop-storytelling-app/step-8
