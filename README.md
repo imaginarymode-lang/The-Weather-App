@@ -19,5 +19,5 @@
 
 ## Special Thanks to TheOdinProject and FreeCodeCamp
 
-- i learned from weather app lesson https://www.theodinproject.com/lessons/node-path-javascript-weather-app
-- i read step from freecodecamp javascript certificate currently at https://www.freecodecamp.org/learn/javascript-v9/workshop-storytelling-app/step-8
+- I learned from weather app lesson https://www.theodinproject.com/lessons/node-path-javascript-weather-app
+- I read step from freecodecamp javascript certificate currently at https://www.freecodecamp.org/learn/javascript-v9/workshop-storytelling-app/step-8
