@@ -68,6 +68,8 @@ body {
 #weather-display {
   min-height: 72px;        
   display: flex;
+  flex-direction: column;
+  gap: 6px;
   align-items: center;
   justify-content: center;
   text-align: center;
