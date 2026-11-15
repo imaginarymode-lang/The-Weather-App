@@ -2,7 +2,8 @@
 
 **[Live Demo](https://imaginarymode-lang.github.io/The-Weather-App/)**
 
-<img width="812" height="691" alt="Weather App Preview" src="https://github.com/user-attachments/assets/95f67711-094b-4bf7-baed-c6296234f229" />
+<img width="585" height="601" alt="image" src="https://github.com/user-attachments/assets/9f169e99-bbb4-4de6-ad06-897e5c94dc67" />
+
 
 ## My Understanding
 - APIs are quite powerful when working with real data.
