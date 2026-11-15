@@ -16,12 +16,15 @@ body {
 }
 
 .weather-card {
-  width: 95%;
-  max-width: 500px;
-  padding: 24px;
+  width: 92%;
+  max-width: 400px;        
+  padding: 28px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;               
   background-color: rgba(185, 179, 179, 0.9);
   color: #1e293b;
-  border-radius: 12px;
+  border-radius: 16px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
@@ -63,14 +66,20 @@ body {
 }
 
 #weather-display {
+  min-height: 72px;        
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
   font-size: 1.2rem;
   font-weight: 600;
-  padding: 12px;
+  padding: 16px;
   background-color: #f8fafc;
   border-radius: 10px;
 }
 
 #unit-toggle {
+align-self: flex-start;  
   transition:
     transform 0.2s ease,
     background-color 0.2s ease;
